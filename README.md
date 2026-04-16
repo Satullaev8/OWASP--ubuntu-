@@ -20,7 +20,7 @@ The 13 websites hosted on this server include classic vulnerabilities such as:
 ## 📥 Download
 Due to the large file size, the `.ova` file is hosted externally. You can download it via the link below:
 
-> **[INSERT YOUR GOOGLE DRIVE OR MEGA LINK HERE]**
+> https://drive.google.com/file/d/1hloY3ufSy-7grpPL5eZeWXrcrSR-vM-Z/view?usp=sharing
 
 ## ⚙️ Setup and Installation
 1. Download a virtualization platform like **VMware** or **VirtualBox**.
